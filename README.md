@@ -6,8 +6,6 @@ Welcome to the NLP Data Vault! This repository is your centralized storage space
 
 Natural Language Processing (NLP) is a branch of artificial intelligence concerned with the interaction between computers and human (natural) languages. As you delve deeper into the world of NLP, you'll accumulate a variety of datasets that are crucial for training and evaluating machine learning models.
 
-This repository aims to provide you with a secure and organized location to store, manage, and access the datasets you collect or utilize during your NLP journey.
-
 ## Features
 
 - **Datasets**: Store diverse datasets for tasks such as text classification, sentiment analysis, machine translation, named entity recognition, summarization, and more.
